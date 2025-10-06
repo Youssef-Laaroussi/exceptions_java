@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class TestingNumber {
 
+
+    Division division;
+
     public static void main(String[] args) {
 
             Scanner sc = new Scanner(System.in);
